@@ -1,0 +1,20 @@
+1> STUDENT ENTITY : ATTRIBUTE:
+
+    		student_id,student_college,student_name,student_mob_no,student_email,student_username
+		student_password,student_address.
+
+2> FESS ENTITY : ATTRIBUTE:
+		
+		Fees_course_id,Fees_amount,Fees_total,Fees_payment,Fees_type,Fees_description.
+
+3>LOGIN ENTITY : Login_id,Login_username,Login_password,Login_lastlogin.
+
+4>PROFILES ENTITY : ATTRIBUTES:
+		
+		Profile_id,Profile_name,Profile_type,Profile_description.
+
+5>COURCE ENTITY : Cource_id,Cource_student_id,Cource_registration,Cource_name,Cource_type,Cource_year,Cource_description.
+
+6>EXAM ENTITY : ATTRIBUTE:
+		
+		Exam_id,Exam_std_id,Exam_rollno,Exam_date,Exam_name,Exam_description.
