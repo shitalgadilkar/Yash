@@ -1,0 +1,2 @@
+1. Find summation of values of an array using Fork Join Framework
+2. Implement Producer consumer design pattern using BlockingQueue
