@@ -1,0 +1,18 @@
+1. Write  a program to simulate interview process using multithreading.
+
+   Use synchronized keyword and Lock,ReentrantLock for properly synchronizing the process.
+
+
+2. write a program to do sorting of multiple arrays using multithreading.
+
+
+int[] array1={23,34,78,90};
+int[] array2={89,23};
+int[] array3={12,34,67};
+
+After arrays are sorted print sorted arrays.
+
+
+
+   
+ 

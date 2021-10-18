@@ -1,0 +1,3 @@
+1. Create students.xsd and peform validation of students.xml using this xsd file.
+
+2. Write code to validate data in students.xml using students.xsd created in first assignment. If data is valid calculate percentage for each student and give grades according to percentage.

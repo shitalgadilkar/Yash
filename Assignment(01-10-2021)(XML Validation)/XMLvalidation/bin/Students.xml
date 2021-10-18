@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <student id="stu1001">
+    <rollno>1001</rollno>
+    <firstname>Kinshuk</firstname>
+    <lastname>Jain</lastname>
+    <sem1marks>98.0</sem1marks>
+    <sem2marks>80.7</sem2marks>
+    <sem3marks>99.0</sem3marks>
+    <sem4marks>88.5</sem4marks>
+    <sem5marks>70.0</sem5marks>
+    <sem6marks>71.0</sem6marks>
+  </student>
+  
+  <student id="stu1002">
+  	<rollno>1002</rollno>
+  	<firstname>Ashutosh</firstname>
+  	<lastname>Pathak</lastname>
+  	<sem1marks>88.9</sem1marks>
+  	<sem2marks>100</sem2marks>
+  	<sem3marks>90.8</sem3marks>
+  	<sem4marks>79.5</sem4marks>
+  	<sem5marks>98.6</sem5marks>
+  	<sem6marks>60</sem6marks>
+  </student>
+
+  <student id="stu1003">
+  	<rollno>1003</rollno>
+  	<firstname>Saurav</firstname>
+  	<lastname>Nair</lastname>
+  	<sem1marks>78.9</sem1marks>
+  	<sem2marks>87.5</sem2marks>
+  	<sem3marks>89</sem3marks>
+  	<sem4marks>75</sem4marks>
+  	<sem5marks>87</sem5marks>
+  	<sem6marks>99</sem6marks>
+  </student>
+  
+  <student id="stu1004">
+  	<rollno>1004</rollno>
+  	<firstname>Akash</firstname>
+  	<lastname>Gupta</lastname>
+  	<sem1marks>77</sem1marks>
+  	<sem2marks>87</sem2marks>
+  	<sem3marks>98</sem3marks>
+  	<sem4marks>77</sem4marks>
+  	<sem5marks>85</sem5marks>
+  	<sem6marks>90</sem6marks>
+  </student>
+  
+</students>
