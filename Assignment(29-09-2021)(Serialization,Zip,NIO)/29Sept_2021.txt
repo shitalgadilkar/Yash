@@ -1,0 +1,21 @@
+1. Ask end user to enter following details 
+
+ Roll no
+ Student name
+ Semester1 marks
+ Semester 2 marks
+ Semester 3 Marks
+.....
+
+Ask for four entries.
+
+Calculate percentage of marks and store into file student.dat
+
+2. Using FileVisitor search for all files with extension .java in a given folder.
+
+Folder path: C:\\sabbir
+
+3. Create an zip file to put student.dat created in assignment 1.
+
+
+
